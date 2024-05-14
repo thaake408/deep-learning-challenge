@@ -32,7 +32,7 @@ Results: Using bulleted lists and images to support your answers, address the fo
 
 - **Were you able to achieve the target model performance?**
 
-I was only able to reach a model performance of around 73%, 2% shot of the target model performance.
+I was only able to reach a model performance of around 73%, 2% short of the target model performance.
 
 - **What steps did you take in your attempts to increase model performance?**
 
