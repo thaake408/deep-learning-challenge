@@ -15,6 +15,7 @@ What variable(s) are the features for your model?
 
 
 What variable(s) should be removed from the input data because they are neither targets nor features?
+![Screenshot 2024-05-13 at 10 28 46 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/ea1cd0fb-cdb1-44fe-bd0d-ef817df8b020)
 
 
 **Compiling, Training, and Evaluating the Model**
