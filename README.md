@@ -37,5 +37,4 @@ I was only able to reach a model performance of around 73%, 2% shot of the targe
 - **What steps did you take in your attempts to increase model performance?**
 
 ![Screenshot 2024-05-13 at 10 34 57 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/c5e02678-47c8-4de8-8289-b94b2365c7bb)
-
-I performed a Keras Tuner multiple times chaning up the number of epochs in mode such as the example pictured above. 
+I performed a Keras Tuner 3 times, changing up the number of epochs for each instance such as the example pictured above. 
