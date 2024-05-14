@@ -31,7 +31,7 @@ Results: Using bulleted lists and images to support your answers, address the fo
 
 
 - **Were you able to achieve the target model performance?**
-- 
+  
 ![Screenshot 2024-05-13 at 11 35 50 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/6747bbf1-a8a0-4099-8c1c-45ccbda6a3fd)
 
 I was only able to reach a model performance of around 73%, 2% short of the target model performance.
