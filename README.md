@@ -9,9 +9,11 @@ Results: Using bulleted lists and images to support your answers, address the fo
 **Data Preprocessing**
 
 What variable(s) are the target(s) for your model?
+![Screenshot 2024-05-13 at 10 30 23 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/79cf0fbf-ca1a-40db-8822-af871b02719b)
 
 
 What variable(s) are the features for your model?
+![Screenshot 2024-05-13 at 10 29 46 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/110809fd-5032-42fb-b8e2-af6172c04329)
 
 
 What variable(s) should be removed from the input data because they are neither targets nor features?
