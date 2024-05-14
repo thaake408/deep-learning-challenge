@@ -38,7 +38,7 @@ I was only able to reach a model performance of around 73%, 2% short of the targ
 
 - **What steps did you take in your attempts to increase model performance?**
 
-![Screenshot 2024-05-13 at 10 34 57 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/c5e02678-47c8-4de8-8289-b94b2365c7bb)
+![Screenshot 2024-05-13 at 11 42 42 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/2ba5e0b5-9f74-4537-bf66-9dc70268e4ff)
 
 ![Screenshot 2024-05-13 at 11 41 23 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/73475954-5885-4c2d-98b6-ae02fdb9cfef)
 
