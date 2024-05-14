@@ -13,28 +13,28 @@ Results: Using bulleted lists and images to support your answers, address the fo
 ![Screenshot 2024-05-13 at 10 30 23 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/79cf0fbf-ca1a-40db-8822-af871b02719b)
 
 
-**What variable(s) are the features for your model?**
+- **What variable(s) are the features for your model?**
 
 ![Screenshot 2024-05-13 at 10 29 46 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/110809fd-5032-42fb-b8e2-af6172c04329)
 
 
-**What variable(s) should be removed from the input data because they are neither targets nor features?**
+- **What variable(s) should be removed from the input data because they are neither targets nor features?**
 
 ![Screenshot 2024-05-13 at 10 28 46 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/ea1cd0fb-cdb1-44fe-bd0d-ef817df8b020)
 
 
 # Compiling, Training, and Evaluating the Model
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
+- **How many neurons, layers, and activation functions did you select for your neural network model, and why?**
 
 ![Screenshot 2024-05-13 at 10 32 15 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/6b2258ef-3b89-48c8-97e9-5b91b01726b9)
 
 
-**Were you able to achieve the target model performance?**
+- **Were you able to achieve the target model performance?**
 
 I was only able to reach a model performance of around 73%, 2% shot of the target model performance.
 
-**What steps did you take in your attempts to increase model performance?**
+- **What steps did you take in your attempts to increase model performance?**
 
 ![Screenshot 2024-05-13 at 10 34 57 PM](https://github.com/thaake408/deep-learning-challenge/assets/150471324/c5e02678-47c8-4de8-8289-b94b2365c7bb)
 
